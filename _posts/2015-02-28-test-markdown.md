@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: A Visual Recommender System using Deep Learning
+subtitle: A system to intelligently recommend similar products. 
+gh-repo: dhruvagupta2014/Visual-Recommender-System
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
